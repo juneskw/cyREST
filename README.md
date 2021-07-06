@@ -6,6 +6,7 @@
 # cyREST: a language-agnostic RESTful API for Cytoscape
 
 [![Build Status](https://travis-ci.org/idekerlab/cyREST.svg?branch=develop)](https://travis-ci.org/idekerlab/cyREST)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuneskw%2FcyREST.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuneskw%2FcyREST?ref=badge_shield)
 
 [![Coverage Status](https://coveralls.io/repos/idekerlab/cyREST/badge.svg)](https://coveralls.io/r/idekerlab/cyREST)
 
@@ -44,6 +45,9 @@ And of course, pull requests are always welcome!
 ## License
 * Source Code: [The MIT license](http://opensource.org/licenses/MIT)
 * Documentation: [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuneskw%2FcyREST.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuneskw%2FcyREST?ref=badge_large)
 
 ## Cite cyREST
 (TBD)
